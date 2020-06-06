@@ -16,3 +16,5 @@ After that, the program takes a look into other subreddits wherein each of those
 For example, say we find a user that has a cumulative negative karma in r/Scotland from their most recent comments. We then go to that user's comments to find out in which communities he has positive karma. Say we find r/oneplus. Now r/oneplus has a 'negative relationship' with r/Scotland (unless we find other users who have positive karma in both subreddits in order to compensate).
 
 Using GraphStream, positive relations are displayed in blue and negative relations, in red.
+
+![The graph view of the subreddits' relationships. From June 2019](https://i.imgur.com/pmL8ufb.png)
