@@ -1,4 +1,4 @@
-# RedditGraphs
+# Reddit Graphs
 
 ## Summary
 
